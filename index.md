@@ -18,7 +18,7 @@ Below is the list of Datasets and detailed description.
 
 This dataset consists domesic fire and smoke images. 
 
-** Scene Description:**    
+**Scene Description:**    
 Dataset consists fire and smoke image caputred using mobile phones in real-world scenrio. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset is well suited for early fire and smoke detection. Dataset could be used for fire and smoke recoginition, detection, early fire and smoke, anomaly detection etc. Dataset consits of typical domestic scenes like grabage burning, paper-plastic burning, feild burning, doemstic cooking etc.      
 
 **Dataset Highlights:**
