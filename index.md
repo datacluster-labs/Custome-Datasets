@@ -1,11 +1,11 @@
-## Datacluster Labs Datasets
+# Datacluster Labs Datasets
 
 Datacluster Labs focuses on Crowd Data Collection using its managed crowd-sourcing platform. 
 
-We provide integrated services for your AI need:  
-* Data Collection  
-* Data Curation  
-* Data Annotation 
+We provide integrated services for all your AI needs:  
+* Data Collection
+* Data Curation
+* Data Annotation
 
 We deal with all types of multimedia data collection and annotation like images, videos, audio, text and surveys. 
 
@@ -14,19 +14,21 @@ Visit [www.datacluster.in](www.datacluster.in) to know more.
 
 Below is the list of Datasets and detailed description.  
 
-**Note: All the images are contributed by a large conrtibutor base on out platform. All images in the dataset are manually verified.**
+**All the images are contributed by our large conrtibutor base on our platform. Each image in the dataset are manually verified.**
+
+
 
 ## Fire and Smoke Image Dataset  
 
-This dataset consists domesic fire and smoke images. 
+This dataset consists of Domestic Fire and Smoke images. 
 
 **Scene Description:**    
-Dataset consists fire and smoke image caputred using mobile phones in real-world scenrio. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset is well suited for early fire and smoke detection. Dataset could be used for fire and smoke recoginition, detection, early fire and smoke, anomaly detection etc. Dataset consits of typical domestic scenes like grabage burning, paper-plastic burning, feild burning, doemstic cooking etc.      
+Dataset consists of Fire and Smoke images captured using mobile phones in real-world scenarios. Images were captured under wide variety of lighting conditions, weather conditions and both indoor and outdoor. This dataset is well suited for Early Fire and Smoke detection. Dataset could be used for fire and smoke recoginition, detection, early fire and smoke, anomaly detection etc. Dataset consits of typical domestic scenes like garbage burning, paper-plastic burning, crop burning, doemstic cooking etc.      
 
 **Dataset Highlights:**
 * Captured by 1000+ unique users  
-* Domestic fire and smoke images    
-* Early Fire and smoke Images  
+* Domestic Fire and Smoke images    
+* Early Fire and Smoke Images  
 * HD Resolution  
 * Highly diverse  
 * Various lighting condtions  
@@ -36,19 +38,21 @@ Dataset consists fire and smoke image caputred using mobile phones in real-world
 
 
 **Dataset Details:**  
-* 2-class (fire and smoke) Bounding box annotation   
+* 2-class (Fire and Smoke) Bounding box annotation   
 * COCO, PASCAL VOC and YOLO formats  
 * Approx. 5000 unique images  
 
 **Sample Images:**  
 ![alt-text-1](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample1.jpg "title-1") ![alt-text-2](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample9.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample7.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample5.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample2.jpg "title-2") 
 
-## Wrist Image Dataset   
 
-This dataset consists of images of wrist.
+
+## Wrist wearables Image Dataset   
+
+Dataset consists of images of wrist.
 
 **Scene Description:**    
-Dataset consists of images of wrist caputred using mobile phones in real-world scenrio. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset can used for Augmented Reality, Mixed Reality, Rakhi detection, Wrist-watch detection, hand-band detection, etc.    
+Dataset consists of images of wrist captured using mobile phones in real-world scenarios. Images were captured under wide variety of lighting conditions, weather conditions, and taken both indoors and outdoors. This dataset can used for Augmented Reality, Mixed Reality, Rakhi detection, Wrist-watch detection, hand-band detection, etc.    
 
 **Dataset Speciality:**  
 * Captured by 3000+ unique users  
@@ -57,35 +61,37 @@ Dataset consists of images of wrist caputred using mobile phones in real-world s
 * Consists of male and female wrists  
 * HD Resolution  
 * Highly diverse  
-* Various lighting condtions  
+* Various lighting conditions  
 * Indoor and Outdoor scene   
 
 **Dataset Details:**  
-* Classification and detection annorations available   
+* Classification and bounding box annotations available   
 * COCO, PASCAL VOC and YOLO formats  
 * Approx. 6000 unique images  
 
 **Sample Images:**  
 ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample1.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample2.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample3.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample4.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample5.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample6.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample7.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample8.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample9.jpg "title-1") ![alt-text-1](sample_datasets/rakhi/datacluster_rakhiWrist_sample10.jpg "title-1")
 
+
+
 ## Bottles and Cups Image Dataset   
 
 This dataset consists of images of bottles and cups with variety of materials.
 
 **Scene Description:**    
-Dataset consists of images of bottle and cups caputred using mobile phones in real-world scenrio. Images were captured under wide variety of indoor lighting conditions. This dataset can used for detection of wide variety of bottles and cups like varity of materials, varity of view-points, etc.    
+Dataset consists of images of wrist captured using mobile phones in real-world scenarios. Images were captured under wide variety of lighting conditions and view points (near, far, on the table, etc.) . This dataset can be used for detection and identification of a wide variety of bottles and cups, and also in determining their material, etc.    
 
 **Dataset Speciality:**  
 * Captured by 3000+ unique users  
 * Captured using mobile phones    
-* Varitey of different material of bottles and cups   
+* Variety of different material of bottles and cups   
 * HD Resolution    
 * Highly diverse  
 * Various lighting condtions  
 * Indoor scenes     
 
 **Dataset Details:**  
-* Classification and detection annorations available   
+* Classification and detection annotations available   
 * COCO, PASCAL VOC and YOLO formats  
 * Approx. 4000 unique images  
 
@@ -93,12 +99,13 @@ Dataset consists of images of bottle and cups caputred using mobile phones in re
 ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample1.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample2.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample3.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample4.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample5.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample6.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample7.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample8.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample9.jpg "title-1") ![alt-text-1](sample_datasets/bottles_and_cups/datacluster_bottles_and_cups_sample10.jpg "title-1") 
 
 
+
 ## Indian Food Image Dataset   
 
 This dataset consists of images of Indian food.
 
 **Scene Description:**    
-Dataset consists of images of Indian food caputred using mobile phones in real-world scenrio. Images were captured under wide variety of indoor lighting conditions. It consists of wide variety of dish images taken accross India.  This dataset can be used for recoginition, fine-grained detection of wide variety of cooked food. This can also be used to health related analytics like calorie counting, understanding dish ingredients etc. Each image can have multiple lables based on the use case.    
+Dataset consists of images of Indian foods captured using mobile phones in real-world scenarios. Images were captured under a wide variety of indoor lighting conditions. It consists of a wide variety of dish images taken accross India. This dataset can be used for recognition, fine-grained detection of wide variety of dishes. This can also be used to health related analytics like calorie counting, understanding dish ingredients etc. Each image can have multiple lables based on the use case.    
 
 **Dataset Speciality:**  
 * Captured by 5000+ unique users
@@ -109,10 +116,12 @@ Dataset consists of images of Indian food caputred using mobile phones in real-w
 * Indoor scenes     
 
 **Dataset Details:**  
-* Classification and detection annorations available  
+* Classification and detection annotations available  
 * Multiple category annotations possible 
 * COCO, PASCAL VOC and YOLO formats  
 * Approx. 3500 unique images  
+
+
 
 **Sample Images:**  
 
@@ -121,8 +130,7 @@ Dataset consists of images of Indian food caputred using mobile phones in real-w
 This dataset consists of images of Indian food.
 
 **Scene Description:**    
-The dataset consists of Indian traffic signs images for classification and detection. The images have been taken in varied weather conditions in daylight, evening and nights. The dataset has taken under wide variety of variations like illumination, distances, view points etc. This dataset represents very challenging unstructured images of Indian traffic.
-Dataset consists of images of Indian food caputred using mobile phones in real-world scenrio. It consists of wide variety of dish images taken accross India.  This dataset can be used for recoginition and detection for driver assistance systems, autonomus driving etc.    
+Dataset consists of images of Indian traffic sign captured using mobile phones in real-world scenarios. The images have been taken in variety of weather conditions (daylight, evening, nights), distances, view points etc. This dataset represents a very challenging unstructured images of Indian traffic. This dataset can be used for recoginition and detection for driver assistance systems, autonomus driving etc.    
 
 **Dataset Speciality:**  
 * Captured by 2000+ unique users
@@ -130,13 +138,13 @@ Dataset consists of images of Indian food caputred using mobile phones in real-w
 * Captured with 20+ cities accross India
 * Captured using mobile phones    
 * Highly diverse 
-* Various lighting condtions like day, night,   
+* Various lighting condtions like day, night
 * Outdoor scene with variety of view points
 
 **Dataset Details:**  
-* Classification and detection annorations available  
+* Classification and detection annotations available  
 * Multiple category annotations possible 
-* COCO, PASCAL VOC and YOLO formats  
+* COCO, PASCAL VOC and YOLO formats   
 * Approx. 6000 unique images  
 
 **Sample Images:**  
