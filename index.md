@@ -148,3 +148,29 @@ Dataset consists of images of Indian traffic sign captured using mobile phones i
 * Approx. 6000 unique images  
 
 **Sample Images:**  
+
+## Indian Signboard Image Dataset   
+
+This dataset consists of images of Indian Signboards in mutiple languages and varying lighting conditions.
+
+**Scene Description:**    
+Dataset consists of images of Indian Signboard images captured using mobile phones in real-world scenarios. The images have been taken in variety of weather conditions (daylight, evening, nights), distances, view points etc. Images are caputred accross India from different cities thus, consits of multiple regional languages. This dataset represents a very challenging unstructured images of Indian Signboard. This dataset can be used for recoginition and detection for driver assistance systems, autonomus driving etc.  
+
+**Dataset Speciality:**  
+* Captured by 1000+ unique users
+* Covers wide variety of Indian Signboards
+* Signboards in multiple regional languages  
+* Captured from 20+ cities accross India
+* Captured using mobile phones    
+* Highly diverse  
+* Various lighting condtions like day, night  
+* Various weather conditions  
+* Outdoor scene with variety of view points
+
+**Dataset Details:**  
+* Classification and detection annotations available  
+* Multiple category annotations possible 
+* COCO, PASCAL VOC and YOLO formats   
+* Approx. 6000 unique images  
+
+**Sample Images:**  
