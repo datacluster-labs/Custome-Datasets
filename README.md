@@ -1,3 +1,5 @@
+![alt-text-1](sample_datasets/datasets_collage.png "collage")
+
 # Datacluster Labs Datasets
 
 Datacluster Labs focuses on Crowd Data Collection through our managed crowd-sourcing platform - [Dailydata](https://play.google.com/store/apps/details?id=com.daily.data). 
