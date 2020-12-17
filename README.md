@@ -59,11 +59,13 @@ Dataset consists of Early fire and smoke images captured using mobile phones in 
 * COCO, PASCAL VOC and YOLO formats  
 * Approx. 5000 unique images  
 
+**Sample Images (Outdoor)**  
+![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample3.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample4.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample6.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample8.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample11.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample12.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample13.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample14.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample15.jpg "title-2")
+
 **Sample Images (Indoor)**  
 ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample4.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample5.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample6.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample7.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample8.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample9.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample10.jpg "title-2")
 
-**Sample Images (Outdoor)**  
-![alt-text-1](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample1.jpg "title-1") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample2.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample3.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample4.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample5.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample6.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample7.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample8.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample9.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample10.jpg "title-2")
+
 
 
 ## Wrist Image Dataset   
