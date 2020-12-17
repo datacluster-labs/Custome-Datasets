@@ -1,8 +1,8 @@
-License Zero Noncommercial Public License {{{v1.0}}}
+License Zero Noncommercial Public License v1.0
 
-Copyright: {{{DATACLUSTER LABS PVT. LTD.}}}
+Copyright: DATACLUSTER LABS PVT. LTD.
 
-Source: {{{DATACLUSTER LABS PVT. LTD.}}}
+Source: DATACLUSTER LABS PVT. LTD.
 
 **This software comes as is, without any warranty at all. As far
 as the law allows, I will not be liable for any damages related
