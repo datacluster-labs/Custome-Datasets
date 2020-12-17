@@ -11,7 +11,7 @@ We deal with all types of multimedia data collection and annotation like images,
 
 **Please contact **contact@datacluster.in** for your image/video datasets need.**  
 
-Visit [www.datacluster.in](www.datacluster.in) to know more.
+Visit www.datacluster.in to know more.
   
     
 # List of Datasets.  
