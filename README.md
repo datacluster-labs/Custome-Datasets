@@ -19,6 +19,14 @@ Visit www.datacluster.in to know more.
 # List of Datasets.  
 
 [Fire and Smoke Dataset](#Fire-and-Smoke-Image-Dataset)
+[Wrist Image Dataset](#Wrist-Image-Dataset)
+[Bottles and Cups Image Dataset](#Bottles-and-Cups-Image-Dataset)
+[Indian Food Image Dataset](#Indian-Food-Image-Dataset)
+[Indian Traffic Sign Image Dataset](#Indian-Traffic-Sign-Image-Dataset)
+[Indian Signboard Image Dataset](#Indian-Signboard-Image-Dataset)
+[Palm & gloves Image Dataset](#Palm-&-gloves-Image-Dataset)
+
+
 **Note:**  
 **All the images are contributed by the large contributor base of our platform.**    
 **All images in the dataset are manually verified.**
