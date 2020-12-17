@@ -18,6 +18,7 @@ Visit www.datacluster.in to know more.
     
 # List of Datasets.  
 
+[Fire and Smoke Dataset](#Fire-and-Smoke-Image-Dataset)
 **Note:**  
 **All the images are contributed by the large contributor base of our platform.**    
 **All images in the dataset are manually verified.**
