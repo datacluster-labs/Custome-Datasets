@@ -14,9 +14,10 @@ We provide integrated services for your AI needs:
 
 We deal with all types of multimedia data collection and annotation like images, videos, audio, text and surveys.
 
-**Please contact **contact@datacluster.in** for your image/video datasets need.**  
+**Please contact **contact@datacluster.in** for your image, video or audio datasets need.**  
 
-Visit www.datacluster.in to know more.
+To download below datasets, please contact [contact@datacluster.in](contact@datacluster.in).  
+Visit [www.datacluster.in](www.datacluster.in) to know more.
   
     
 # List of Datasets.  
@@ -34,7 +35,7 @@ Visit www.datacluster.in to know more.
 [Palm & gloves Image Dataset](#Palm-&-gloves-Image-Dataset)<br/><br/>
 
 
-## Fire and Smoke Image Dataset
+## Domestic Fire and Smoke Image Dataset
 
 This dataset consists of domestic Fire and Smoke images. 
 
@@ -58,8 +59,12 @@ Dataset consists of Early fire and smoke images captured using mobile phones in 
 * COCO, PASCAL VOC and YOLO formats  
 * Approx. 5000 unique images  
 
-**Sample Images**  
-![alt-text-1](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample1.jpg "title-1") ![alt-text-2](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample9.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample7.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample5.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke/datacluster_fire_and_smoke_sample2.jpg "title-2") 
+**Sample Images (Indoor)**  
+![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample4.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample5.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample6.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample7.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample8.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample9.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample10.jpg "title-2")
+
+**Sample Images (Outdoor)**  
+![alt-text-1](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample1.jpg "title-1") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample2.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample3.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample4.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample5.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample6.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample7.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample8.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample9.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_outdoor/datacluster_fire_and_smoke_outdoor_sample10.jpg "title-2")
+
 
 ## Wrist Image Dataset   
 
