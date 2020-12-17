@@ -1,6 +1,6 @@
 # Datacluster Labs Datasets
 
-Datacluster Labs focuses on Crowd Data Collection using its managed crowd-sourcing platform. 
+Datacluster Labs focuses on Crowd Data Collection through our managed crowd-sourcing platform - [Dailydata](https://play.google.com/store/apps/details?id=com.daily.data). 
 
 We provide integrated services for your AI needs:  
 * Data Collection  
@@ -22,10 +22,10 @@ Visit [www.datacluster.in](www.datacluster.in) to know more.
 
 ## Fire and Smoke Image Dataset
 
-This dataset consists domesic Fire and Smoke images. 
+This dataset consists of domestic Fire and Smoke images. 
 
 **Introduction**    
-Dataset consists fire and smoke image caputred using mobile phones in real-world scenario. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset is well suited for Early Fire and Smoke detection. Dataset could be used for Fire and Smoke recognition, detection, early fire and smoke, anomaly detection etc. Dataset consits of typical domestic scenes like garbage burning, paper-plastic burning, field crop burning, domestic cooking etc.      
+Dataset consists of Early fire and smoke images captured using mobile phones in real-world scenario. Images were captured under a wide variety of lighting conditions (indoor and outdoor scenes), weather, etc. This dataset is well suited for Early Fire and Smoke detection. Dataset could be used for Fire and Smoke recognition, detection, early fire and smoke, anomaly detection etc. Dataset also consists of typical domestic scenes like garbage burning, paper-plastic burning, field crop burning, domestic cooking etc.      
 
 **Dataset Highlights:**
 * Captured by 1000+ unique users  
@@ -49,17 +49,17 @@ Dataset consists fire and smoke image caputred using mobile phones in real-world
 
 ## Wrist Image Dataset   
 
-This dataset consists of images of wrist.
+This dataset consists of images of wrist (with different kind of bands on it).
 
 **Introduction**    
-Dataset consists of images of wrist captured using mobile phones in real-world scenario. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset can used for Augmented Reality, Mixed Reality, Rakhi Detection, Wrist-watch Detection, Hand-band Detection, etc.    
+Dataset consists of images of wrist captured using mobile phones in real-world scenario. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset can be used for Augmented Reality, Mixed Reality, Rakhi Detection, Wrist-watch Detection, Hand-band Detection, etc.    
 
 **Dataset Features**  
 * Captured by 3000+ unique users  
 * Rich in diversity 
 * Mobile phone view point  
 * Various items on the wrist  
-* Consists of male and female wrists  
+* Consists male and female wrists
 * HD Resolution  
 * Various lighting conditions  
 * Indoor and Outdoor scene   
@@ -77,7 +77,7 @@ Dataset consists of images of wrist captured using mobile phones in real-world s
 This dataset consists of images of bottles and cups.
 
 **Introduction**    
-Dataset consists of images of bottle and cups captured using mobile phones in real-world scenario. Images were captured under wide variety of indoor lighting conditions. This dataset can used for detection of wide variety of bottles and cups made up of variety of materials, variety of view-points, etc.    
+Dataset consists of images of bottle and cups captured using mobile phones in real-world scenario. Images were captured under wide variety of indoor lighting conditions. This dataset can used for detection of a wide variety of bottles and cups made up of variety of materials from a lot of different of view-points, locations, orientation, etc.    
 
 **Dataset Features**  
 * Captured by 3000+ unique users  
@@ -102,7 +102,7 @@ Dataset consists of images of bottle and cups captured using mobile phones in re
 This dataset consists of images of Indian food.
 
 **Introduction**    
-Dataset consists of images of Indian food caputred using mobile phones in real-world scenario. Images were captured under wide variety of indoor lighting conditions. It consists of wide variety of dish images taken accross India.  This dataset can be used for recoginition, fine-grained detection of wide variety of cooked food. This can also be used to health related analytics like calorie counting, understanding dish ingredients etc. Each image can have multiple labels based on the use case.    
+Dataset consists of images of Indian food captured using mobile phones in a real-world scenario. Images were captured under wide variety of indoor lighting conditions. It consists of wide variety of dish images taken accross India.  This dataset can be used for recoginition, fine-grained detection of wide variety of cooked food. This can also be used to health related analytics like calorie counting, understanding dish ingredients etc. Each image can have multiple labels based on the use case.    
 
 **Dataset Features**  
 * Captured by 5000+ unique users
