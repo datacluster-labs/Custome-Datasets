@@ -3,6 +3,11 @@
 ![alt-text-1](sample_datasets/datacluster_logo.png "Datacluster_Logo")
 
 
+<a href="https://datacluster.in/">
+    <img src="sample_datasets/datacluster_logo.png" alt="Datacluster Logo" title="DC" align="right" height="50" />
+</a>
+
+
 # Datacluster Labs Datasets
 
 Datacluster Labs focuses on Crowd Data Collection through our managed crowd-sourcing platform - [Dailydata](https://play.google.com/store/apps/details?id=com.daily.data). 
@@ -14,26 +19,26 @@ We provide integrated services for your AI needs:
 
 We deal with all types of multimedia data collection and annotation like images, videos, audio, text and surveys.
 
-**Please contact **contact@datacluster.in** for your image, video or audio datasets need.**  
+**To download full datasets or to submit a request for your dataset needs, please contact **contact@datacluster.in****  
 
-To download below datasets, please contact [contact@datacluster.in](contact@datacluster.in).  
+To download the full datasets, please contact [contact@datacluster.in](contact@datacluster.in).  
 Visit [www.datacluster.in](www.datacluster.in) to know more.
   
     
 # List of Datasets.  
 
 **Note:**  
-**All the images are contributed by the large contributor base of our platform.**    
-**All images in the dataset are manually verified.**
+**All the images are manually verified and are contributed by the large contributor base on our platform.** 
 
-[Fire and Smoke Dataset](#Fire-and-Smoke-Image-Dataset)<br/><br/>
-[Wrist Image Dataset](#Wrist-Image-Dataset)<br/><br/>
-[Bottles and Cups Image Dataset](#Bottles-and-Cups-Image-Dataset)<br/><br/>
-[Indian Food Image Dataset](#Indian-Food-Image-Dataset)<br/><br/>
-[Indian Traffic Sign Image Dataset](#Indian-Traffic-Sign-Image-Dataset)<br/><br/>
-[Indian Signboard Image Dataset](#Indian-Signboard-Image-Dataset)<br/><br/>
-[Palm & gloves Image Dataset](#Palm-&-gloves-Image-Dataset)<br/><br/>
+- [Domestic Fire and Smoke Dataset](#Fire-and-Smoke-Image-Dataset)<br/><br/>
+- [Wrist Image Dataset](#Wrist-Image-Dataset)<br/><br/>
+- [Bottles and Cups Image Dataset](#Bottles-and-Cups-Image-Dataset)<br/><br/>
+- [Indian Food Image Dataset](#Indian-Food-Image-Dataset)<br/><br/>
+- [Indian Traffic Sign Image Dataset](#Indian-Traffic-Sign-Image-Dataset)<br/><br/>
+- [Indian Signboard Image Dataset](#Indian-Signboard-Image-Dataset)<br/><br/>
+- [Palm & gloves Image Dataset](#Palm-&-gloves-Image-Dataset)<br/><br/>
 
+***
 
 ## Domestic Fire and Smoke Image Dataset
 
