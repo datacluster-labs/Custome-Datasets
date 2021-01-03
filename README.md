@@ -32,7 +32,8 @@ Visit [www.datacluster.in](www.datacluster.in) to know more.
 
 - [Domestic Fire and Smoke Dataset](#Fire-and-Smoke-Image-Dataset)<br/><br/>
 - [Wrist Image Dataset](#Wrist-Image-Dataset)<br/><br/>
-- [Bottles and Cups Image Dataset](#Bottles-and-Cups-Image-Dataset)<br/><br/>
+- [Bottles and Cups Image Dataset](#Bottles-and-Cups-Image-Dataset)<br/><br/>  
+- [Domestic Trash Dataset](#Domestic-Trash-Dataset)<br/><br/>
 - [Indian Food Image Dataset](#Indian-Food-Image-Dataset)<br/><br/>
 - [Indian Traffic Sign Image Dataset](#Indian-Traffic-Sign-Image-Dataset)<br/><br/>
 - [Indian Signboard Image Dataset](#Indian-Signboard-Image-Dataset)<br/><br/>
@@ -70,6 +71,31 @@ Dataset consists of Early fire and smoke images captured using mobile phones in 
 **Sample Images (Indoor)**  
 ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample4.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample5.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample6.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample7.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample8.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample9.jpg "title-2") ![alt-text-2](sample_datasets/fire_and_smoke_indoor/datacluster_fire_and_smoke_indoor_sample10.jpg "title-2")
 
+
+## Domestic Trash Dataset  
+
+This dataset consists of images domestic trash/litter object like paper/plastic cups, batteries, razor, plastic bags etc.  
+
+**Introduction**    
+Dataset consists of images of domestic common trash objects in context. Images were captured under wide variety of lighting conditions, weather, indoor and outdoor. This dataset can be used for make trash/litter detection models, eco-friendly alternative suggestions, carbon footprint generation etc.      
+
+**Dataset Features**  
+* Various trash object classes  
+* Has material labels  
+* Captured by 5000+ unique users  
+* Rich in diversity 
+* Mobile phone view point    
+* HD Resolution  
+* Various lighting conditions  
+* Indoor and Outdoor scene   
+
+**Dataset Format**  
+* Classification and detection annotations available   
+* COCO, PASCAL VOC and YOLO formats  
+* Approx. 9000 unique images  
+
+**Sample Images**  
+![alt-text-1](sample_datasets/trash_dataset/battery_1.jpeg "title-1") ![alt-text-1](sample_datasets/trash_dataset/battery_2.jpeg "title-1") ![alt-text-1](sample_datasets/trash_dataset/battery_3.jpeg "title-1") ![alt-text-1](sample_datasets/trash_dataset/paper_cup_1.jpeg "title-1") ![alt-text-1](sample_datasets/trash_dataset/paper_cup_2.jpeg "title-1") ![alt-text-1](sample_datasets/trash_dataset/paper_cup_3.jpeg "title-1") ![alt-text-1](sample_datasets/trash_dataset/paper_cup_4.jpeg "title-1") ![alt-text-1](sample_datasets/trash_dataset/paper_cup_5.jpeg "title-1") ![alt-text-1](sample_datasets/trash_dataset/paper_cup_6.jpeg "title-1") 
 
 
 
