@@ -9,7 +9,7 @@ List of datasets that Datacluster Labs have created using Crowdsourcing Platform
 
 |        Dataset         | #images | #contributors | #classes |             Highlights             |              Diversity Tags             | Annotations                            |
 |:----------------------:|---------|---------------|----------|:----------------------------------:|:---------------------------------------:|----------------------------------------|
-|  Fire & Smoke Dataset  |  5000+  |     1000+     |     2    | Domestic and early fire & smoke    | Real-world, Indoor, Outdoor             | Bounding Box (COCO, YOLO)              |
+|  [Fire & Smoke Dataset](#Fire-and-Smoke-Image-Dataset)  |  5000+  |     1000+     |     2    | Domestic and early fire & smoke    | Real-world, Indoor, Outdoor             | Bounding Box (COCO, YOLO)              |
 |   Trash Image Dataset  |  9000+  |     2000+     |    10    | Material tagged trash objects      | Matrial class, Real-world, Indoor       | Bounding Box (COCO, YOLO)              |
 |   Wrist Image Dataset  |  6000+  |     3000+     |     3    | Wrist-watches, Wrist-bands etc.    | Random orientations, Real-world, Indoor |        Bounding Box (COCO, YOLO)       |
 |  Bottles & Cup Dataset | 4000+   |     3000+     |     4    | Bottles & cups with material class | Real-world, Indoor, Matrial class       | Material classification,  bounding box |
