@@ -9,14 +9,14 @@ List of datasets that Datacluster Labs have created using Crowdsourcing Platform
 
 |        Dataset         | #images | #contributors | #classes |             Highlights             |              Diversity Tags             | Annotations                            |
 |:----------------------:|---------|---------------|----------|:----------------------------------:|:---------------------------------------:|----------------------------------------|
-|  [Fire & Smoke Dataset](#Fire-and-Smoke-Image-Dataset)  |  5000+  |     1000+     |     2    | Domestic and early fire & smoke    | Real-world, Indoor, Outdoor             | Bounding Box (COCO, YOLO)              |
-|   Trash Image Dataset  |  9000+  |     2000+     |    10    | Material tagged trash objects      | Matrial class, Real-world, Indoor       | Bounding Box (COCO, YOLO)              |
-|   Wrist Image Dataset  |  6000+  |     3000+     |     3    | Wrist-watches, Wrist-bands etc.    | Random orientations, Real-world, Indoor |        Bounding Box (COCO, YOLO)       |
-|  Bottles & Cup Dataset | 4000+   |     3000+     |     4    | Bottles & cups with material class | Real-world, Indoor, Matrial class       | Material classification,  bounding box |
-|   Indian Food Dataset  |  4000+  |     2000+     |     -    | Indian meals, sweet dishes etc.    | Food classes, Real-world, Indoor        |      Classification, bounding box      |
-|  Palm & Gloves Dataset |  9000+  |     4000+     |     3    | Variety of hand-gloves             | Gender, Age, Indoor                     |        Bounding Box (COCO, YOLO)       |
-| Traffic Sign Dataset   |  6000+  |     2000+     |     -    | Indian traffic signs               | 20+ cities, all weather                 |        Bounding Box (COCO, YOLO)       |
-| Road Signboard Dataset |  6000+  |     2000+     |     -    | Indian Signboards                  | 20+ cities, multi-language              |        Bounding Box (COCO, YOLO)       |
+|  [Fire & Smoke Dataset](#Domestic-Fire-and-Smoke-Image-Dataset)  |  5000+  |     1000+     |     2    | Domestic and early fire & smoke    | Real-world, Indoor, Outdoor             | Bounding Box (COCO, YOLO)              |
+|   [Trash Image Dataset](#Domestic-Trash-Dataset)  |  9000+  |     2000+     |    10    | Material tagged trash objects      | Matrial class, Real-world, Indoor       | Bounding Box (COCO, YOLO)              |
+|   [Wrist Image Dataset](#Wrist-Image-Dataset)  |  6000+  |     3000+     |     3    | Wrist-watches, Wrist-bands etc.    | Random orientations, Real-world, Indoor |        Bounding Box (COCO, YOLO)       |
+|  [Bottles & Cup Dataset](#Bottles-and-Cups-Image-Dataset) | 4000+   |     3000+     |     4    | Bottles & cups with material class | Real-world, Indoor, Matrial class       | Material classification,  bounding box |
+|   [Indian Food Dataset](#Indian-Food-Image-Dataset)  |  4000+  |     2000+     |     -    | Indian meals, sweet dishes etc.    | Food classes, Real-world, Indoor        |      Classification, bounding box      |
+|  [Palm & Gloves Dataset](#Palm-&-gloves-Image-Dataset) |  9000+  |     4000+     |     3    | Variety of hand-gloves             | Gender, Age, Indoor                     |        Bounding Box (COCO, YOLO)       |
+| [Traffic Sign Dataset](#Indian-Traffic-Sign-Image-Dataset)   |  6000+  |     2000+     |     -    | Indian traffic signs               | 20+ cities, all weather                 |        Bounding Box (COCO, YOLO)       |
+| [Road Signboard Dataset](#Indian-Signboard-Image-Dataset) |  6000+  |     2000+     |     -    | Indian Signboards                  | 20+ cities, multi-language              |        Bounding Box (COCO, YOLO)       |
 
 # Datacluster Labs Datasets
 
@@ -40,7 +40,7 @@ Visit [www.datacluster.in](www.datacluster.in) to know more.
 **Note:**  
 **All the images are manually verified and are contributed by the large contributor base on our platform.** 
 
-- [Domestic Fire and Smoke Dataset](#Fire-and-Smoke-Image-Dataset)<br/><br/>
+- [Domestic Fire and Smoke Dataset](#Domestic-Fire-and-Smoke-Image-Dataset)<br/><br/>
 - [Wrist Image Dataset](#Wrist-Image-Dataset)<br/><br/>
 - [Bottles and Cups Image Dataset](#Bottles-and-Cups-Image-Dataset)<br/><br/>  
 - [Domestic Trash Dataset](#Domestic-Trash-Dataset)<br/><br/>
