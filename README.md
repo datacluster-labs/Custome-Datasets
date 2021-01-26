@@ -35,7 +35,7 @@ To download the full datasets, please contact [contact@datacluster.in](contact@d
 Visit [www.datacluster.in](www.datacluster.in) to know more.
   
     
-# List of Datasets.  
+# Dataset Description  
 
 **Note:**  
 **All the images are manually verified and are contributed by the large contributor base on our platform.** 
