@@ -1,8 +1,5 @@
 ![alt-text-1](sample_datasets/datasets_collage_3.jpg "Datacluster_datasets_collage")
 
-![alt-text-1](sample_datasets/datacluster_logo.png "Datacluster_Logo")
-
-
 <a href="https://datacluster.in/">
     <img src="sample_datasets/datacluster_logo.png" alt="Datacluster Logo" title="DC" align="right" height="50" />
 </a>
