@@ -17,6 +17,7 @@ List of datasets that Datacluster Labs have created using Crowdsourcing Platform
 |  [Palm & Gloves Dataset](#Palm-&-gloves-Image-Dataset) |  9000+  |     4000+     |     3    | Variety of hand-gloves             | Gender, Age, Indoor                     |        Bounding Box (COCO, YOLO)       |
 | [Traffic Sign Dataset](#Indian-Traffic-Sign-Image-Dataset)   |  6000+  |     2000+     |     -    | Indian traffic signs               | 20+ cities, all weather                 |        Bounding Box (COCO, YOLO)       |
 | [Road Signboard Dataset](#Indian-Signboard-Image-Dataset) |  6000+  |     2000+     |     -    | Indian Signboards                  | 20+ cities, multi-language              |        Bounding Box (COCO, YOLO)       |
+| [Indian Vehicle Dataset](#Indian-Vehicle-Image-Dataset) |  10000+  |     3000+     |     2    | Auto, trucks, Tempo                  | 30+ cities, Niche vehicles              |        Bounding Box (COCO, YOLO)       |
 
 # Datacluster Labs Datasets
 
