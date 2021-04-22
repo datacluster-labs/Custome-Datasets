@@ -1,17 +1,16 @@
-# Stairs Image Dataset   
+# Window Image Dataset   
 
-This dataset consists of images of wide variety of stairs.
+This dataset consists of images of wide variety of windows captured from inside or outside house or office.
 
 **Introduction**    
-The dataset consists of images of a wide variety of stairs. This dataset covers fine-grained classes of stairs. The images were captured under a variety of illumination, distances, viewpoints, etc. This dataset represents a very challenging set for stairs detection and classification. This dataset can be used for AR gaming, AR assistance and architecture planning.   
+The dataset consists of images of a wide variety of windows photos. The images are mostly captured from inside the house and offices. The dataset consists of a wide variety of window types. The images were captured under a variety of illumination, distances, viewpoints, etc. This dataset represents a very challenging set of windows classification and detection. This dataset can be used for AR gaming, AR assistance and architecture planning. 
 
 **Dataset Features**  
 * Approx. 8000+ unique images  
 * Captured by 5000+ unique users  
 * Captured using mobile phones
-* Variety of stairs like straight, U-shaped, L-shaped, cureved stairs etc.    
-* Various lighting conditions like daylight, night 
-* Outdoor scene with a variety of lillumination and viewpoints  
+* Variety of window types      
+* Various lighting conditions like daylight, night, indoor, outdoor
 
 **Dataset Format**  
 * Classification and detection annotations available  
