@@ -22,6 +22,8 @@ The dataset consists of Indian vehicle Licence Plate images for number plate rec
  
 
 **Sample Images**  
+![alt-text-2](sample_datasets/indian_licence_plate1.jpg "title-2") ![alt-text-2](sample_datasets/indian_licence_plate(2).jpg "title-2") ![alt-text-2](sample_datasets/indian_licence_plate(3).jpg "title-2") ![alt-text-2](sample_datasets/indian_licence_plate(4).jpg "title-2") ![alt-text-2](sample_datasets/indian_licence_plate(5).jpg "title-2") ![alt-text-2](sample_datasets/indian_licence_plate(6).jpg "title-2") ![alt-text-2](sample_datasets/indian_licence_plate(7).jpg "title-2")  
+
 
 
 # Datacluster Labs Datasets
