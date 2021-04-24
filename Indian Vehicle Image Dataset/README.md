@@ -25,7 +25,7 @@ Indian Truck
  
 
 **Sample Images**  
-
+![alt-text-2](sample_datasets/auto/auto(1).jpg "title-2") ![alt-text-2](sample_datasets/auto/auto(2).jpg "title-2") ![alt-text-2](sample_datasets/auto/auto(4).jpg "title-2") ![alt-text-2](sample_datasets/auto/auto(5).jpg "title-2") ![alt-text-2](sample_datasets/auto/auto(6).jpg "title-2") ![alt-text-2](sample_datasets/auto/auto(7).jpg "title-2") ![alt-text-2](sample_datasets/auto/auto(8).jpg "title-2") ![alt-text-2](sample_datasets/auto/auto(9).jpg "title-2") ![alt-text-2](sample_datasets/auto/auto(10).jpg "title-2") ![alt-text-2](sample_datasets/truck/truck(19).jpg "title-2") ![alt-text-2](sample_datasets/truck/truck(20).jpg "title-2") ![alt-text-2](sample_datasets/truck/truck(21).jpg "title-2") ![alt-text-2](sample_datasets/truck/truck(22).jpg "title-2") ![alt-text-2](sample_datasets/truck/truck(23).jpg "title-2") ![alt-text-2](sample_datasets/truck/truck(24).jpg "title-2") ![alt-text-2](sample_datasets/truck/truck(25).jpg "title-2") ![alt-text-2](sample_datasets/truck/truck(26).jpg "title-2") 
 
 # Datacluster Labs Datasets
 
