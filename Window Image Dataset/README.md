@@ -19,6 +19,8 @@ The dataset consists of images of a wide variety of windows photos. The images a
  
 
 **Sample Images**  
+![alt-text-2](sample_datasets/window(1).jpg "title-2") ![alt-text-2](sample_datasets/window(2).jpg "title-2") ![alt-text-2](sample_datasets/window(4).jpg "title-2") ![alt-text-2](sample_datasets/window(5).jpg "title-2") ![alt-text-2](sample_datasets/window(6).jpg "title-2") ![alt-text-2](sample_datasets/window(7).jpg "title-2") ![alt-text-2](sample_datasets/window(8).jpg "title-2") ![alt-text-2](sample_datasets/window(9).jpg "title-2") ![alt-text-2](sample_datasets/window(10).jpg "title-2") 
+
 
 
 # Datacluster Labs Datasets

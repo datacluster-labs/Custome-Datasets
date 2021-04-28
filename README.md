@@ -21,6 +21,8 @@ List of datasets that Datacluster Labs have created using Crowdsourcing Platform
 | [Indian Licence Plate Dataset](#Indian-Licence-Plate-Image-Dataset) |  6000+  |     3000+     |     -    | Licence plate of wide variety vehicles                  | 20+ states              |        Bounding Box (COCO, YOLO), OCR       |
 | [Cracked Screen Dataset](#Cracked-Screen-Image-Dataset) |  7000+  |     5000+     |     -    | Covers variety of screen damages                   | Wide variety of mobile phones              |        Classification       |
 | [Stairs Image Dataset](#Stairs-Image-Dataset) |  8000+  |     5000+     |     -    | Straight, L-shaped, wodden stairs etc.                   | Variety of illuminations              |        Classification       |
+| [Windows Image Dataset](#Windows-Image-Dataset) |  8000+  |     5000+     |     -    | Variety of windows types, unstructured windows | Variety of illuminations              |        Classification       |
+
 
 # Datacluster Labs Datasets
 
