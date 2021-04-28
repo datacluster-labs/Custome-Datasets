@@ -20,7 +20,7 @@ The dataset consists of images of cracked screens. This dataset covers different
  
 
 **Sample Images**  
-
+![alt-text-2](sample_datasets/cracked_screen(1).jpg "title-2") ![alt-text-2](sample_datasets/cracked_screen(2).jpg "title-2") ![alt-text-2](sample_datasets/cracked_screen(4).jpg "title-2") ![alt-text-2](sample_datasets/cracked_screen(5).jpg "title-2") ![alt-text-2](sample_datasets/cracked_screen(6).jpg "title-2") ![alt-text-2](sample_datasets/cracked_screen(7).jpg "title-2") ![alt-text-2](sample_datasets/cracked_screen(8).jpg "title-2") ![alt-text-2](sample_datasets/cracked_screen(9).jpg "title-2") ![alt-text-2](sample_datasets/cracked_screen(10).jpg "title-2") 
 
 # Datacluster Labs Datasets
 
